@@ -1,4 +1,4 @@
-## Hi there, I'm 0lbap 👋
+### Hi there, I'm 0lbap 👋
 
 
 - :cherry_blossom: I'm an IT student
@@ -7,7 +7,7 @@
 - :smile: Pronouns: He/Him
 - :zap: Fun fact: I love music!
 
-## Languages practiced:
+### Languages practiced:
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=40 alt="HTML5" />]()
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=40 alt="CSS3" />]()
