@@ -2,8 +2,8 @@
 
 
 - :cherry_blossom: I'm an IT student
-- :hourglass_flowing_sand: I’m currently working on a web project
-- :seedling: I’m currently learning JavaScript
+- :hourglass_flowing_sand: I’m currently working on a js game project
+- :seedling: I’m currently learning networking
 - :smile: Pronouns: He/Him
 - :zap: Fun fact: I love music!
 
