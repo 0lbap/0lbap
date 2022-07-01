@@ -1,11 +1,11 @@
-### Hi there, I'm 0lbap 👋
+### Hi there, I'm Pablo 👋
 
 
 - :cherry_blossom: I'm an IT student
 - :hourglass_flowing_sand: I’m currently working in an internship
 - :seedling: I’m currently learning Vue.js
 - :smile: Pronouns: He/Him
-- :zap: Fun fact: I love music!
+- :musical_keyboard: I love music!
 
 ### Languages practiced and tools used :
 
