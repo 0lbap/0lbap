@@ -2,7 +2,6 @@
 
 
 - :cherry_blossom: I'm an IT student
-- :hourglass_flowing_sand: I’m currently working in an internship
 - :seedling: I’m currently learning Vue.js
 - :smile: Pronouns: He/Him
 - :musical_keyboard: I love music!
