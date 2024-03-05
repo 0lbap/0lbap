@@ -38,4 +38,4 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width=40 alt="Spring" />](#)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-plain.svg" width=40 alt="OpenGL" />](#)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original.svg" width=40 alt="Symfony" />](#)
-
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width=40 alt="Rust" />](#)
