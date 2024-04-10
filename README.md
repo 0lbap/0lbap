@@ -1,8 +1,8 @@
 ### Hi there, I'm Pablo 👋
 
 - :cherry_blossom: I'm a CS student
-- :seedling: I’m currently learning Laravel
-- 📚 You can visit my portfolio at [https://0lbap.github.io](https://0lbap.github.io)
+- :seedling: I’m currently learning Angular
+- 📚 You can visit my portfolio at [0lbap.github.io](https://0lbap.github.io)
 - :smile: Pronouns: He/Him
 - :musical_keyboard: I love music!
 
