@@ -1,9 +1,8 @@
 ### Hi there, I'm Pablo 👋
 
-- :cherry_blossom: I'm a CS student
-- :seedling: I’m currently learning Angular
+- :cherry_blossom: I'm a MSc graduate in SWE
+- :seedling: I like to learn new technologies, languages and frameworks
 - 📚 You can visit my portfolio at [0lbap.github.io](https://0lbap.github.io)
-- :smile: Pronouns: He/Him
 - :musical_keyboard: I love music!
 
 ### Languages practiced and tools used :
